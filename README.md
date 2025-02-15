@@ -1,2 +1,2 @@
 # fantasy_football_win_probability
-Improving existing fantasy football win probability models by accounting for covariances between NFL teammates
+Lots of fantasy football analysts talk about stacking quarterbacks and pass-catchers to double your points on a touchdown. I've always been curious as to what the numbers say about that. Is it better to capitalize on the stack but risk the offense being shut out or hedge your bets and pick players on different NFL teams? Using data from the 2023 NFL season, this program calculates win probability of a fantasy football matchup while taking into account covariances between players on the same NFL team, which existing win probability calculators on fantasy football platforms do not consider.
